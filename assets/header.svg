@@ -1,0 +1,54 @@
+<svg width="1200" height="310" viewBox="0 0 1200 310" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="310" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#080B12"/>
+      <stop offset="0.5" stop-color="#111827"/>
+      <stop offset="1" stop-color="#07101E"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="210" y1="0" x2="990" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#22D3EE"/>
+      <stop offset="0.5" stop-color="#60A5FA"/>
+      <stop offset="1" stop-color="#A78BFA"/>
+    </linearGradient>
+    <filter id="glow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="12"/>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="310" rx="24" fill="url(#bg)"/>
+
+  <circle cx="160" cy="70" r="135" fill="#22D3EE" fill-opacity="0.05"/>
+  <circle cx="1060" cy="245" r="170" fill="#8B5CF6" fill-opacity="0.05"/>
+
+  <path d="M0 72H1200M0 238H1200" stroke="#FFFFFF" stroke-opacity="0.035"/>
+  <path d="M170 0V310M1030 0V310" stroke="#FFFFFF" stroke-opacity="0.03"/>
+
+  <rect x="205" y="74" width="790" height="2" rx="1" fill="url(#accent)" opacity="0.7"/>
+  <rect x="380" y="232" width="440" height="2" rx="1" fill="url(#accent)" opacity="0.45"/>
+
+  <rect x="420" y="106" width="360" height="82" rx="20" fill="url(#accent)" opacity="0.08" filter="url(#glow)"/>
+
+  <text x="600" y="150"
+        text-anchor="middle"
+        fill="#F8FAFC"
+        font-family="Arial, Helvetica, sans-serif"
+        font-size="62"
+        font-weight="800"
+        letter-spacing="7">PROUDHOUND</text>
+
+  <text x="600" y="190"
+        text-anchor="middle"
+        fill="#94A3B8"
+        font-family="Arial, Helvetica, sans-serif"
+        font-size="18"
+        font-weight="600"
+        letter-spacing="5">BUILDING SYSTEMS WITH AI</text>
+
+  <text x="600" y="268"
+        text-anchor="middle"
+        fill="#CBD5E1"
+        font-family="Arial, Helvetica, sans-serif"
+        font-size="13"
+        font-weight="600"
+        letter-spacing="4">PRODUCT  ·  SOFTWARE  ·  AUTOMATION</text>
+</svg>
