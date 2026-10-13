@@ -29,7 +29,7 @@ A mix of products, open-source documentation and hands-on research. Some reposit
 <tr>
 <td width="50%" valign="top">
 
-<h3>🎮 Cresiora</h3>
+<h3>🎮 Gamified Personal Development Platform</h3>
 <p><strong>Gamified personal development · Private project</strong></p>
 <p>A platform connecting real-life habits, routines and goals with progression and a dark-fantasy game world. The aim is to make long-term personal growth engaging without losing sight of practical everyday value.</p>
 <p><code>Habit tracking</code> <code>Game systems</code> <code>Product design</code></p>
